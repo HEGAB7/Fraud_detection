@@ -1,6 +1,6 @@
 Fraud detection-Kaggle Competition
 ==================================
-In `this competition <https://www.kaggle.com/c/data-science-circle-challenge/overview>__` we are predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.
+In `this competition <https://www.kaggle.com/c/data-science-circle-challenge/overview>`__ we are predicting the probability that an online transaction is fraudulent, as denoted by the binary target isFraud.
 The competition score was based on roc-auc score
 
 
@@ -24,9 +24,9 @@ The data contains:
 The used libiraries:
 --------------------
 
--  1- `Pandas <https://pandas.pydata.org/docs/>__`
--  2- `Numpy <https://numpy.org/doc/>__` 
--  3- `Sklearn <https://scikit-learn.org/stable/>__`
+-  1- `Pandas <https://pandas.pydata.org/docs/>`__
+-  2- `Numpy <https://numpy.org/doc/>`__ 
+-  3- `Sklearn <https://scikit-learn.org/stable/>`__
 
 
 
